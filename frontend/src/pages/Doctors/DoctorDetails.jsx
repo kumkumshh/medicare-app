@@ -39,7 +39,7 @@ const DoctorDetails = () => {
         </div>
 
         {/* Tabs Section Below */}
-        <div className="mt-8 grid grid-cols-1 md:grid-cols-3">
+        <div className="mt-8 grid grid-cols-1 md:grid-cols-3 px-20 mt-16 mb-16">
           {/* Tabs Buttons */}
           <div className="col-span-3 flex border-b border-gray-200">
             <button
